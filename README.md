@@ -17,3 +17,7 @@ Como Funciona
 A animação é construída usando a propriedade @keyframes do CSS para definir as etapas da transição. As cores de fundo do céu, a posição do sol e da lua, e a aparição das estrelas são animadas para criar a transição de dia para noite.
 
 <img src="gif/Design sem nome (4) (1).gif">
+
+
+link CodePen
+https://codepen.io/Claudio-Fatec
