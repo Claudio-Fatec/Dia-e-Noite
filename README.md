@@ -15,3 +15,4 @@ HTML5: Para a estrutura da página.
 CSS3: Para os estilos e animações.
 Como Funciona
 A animação é construída usando a propriedade @keyframes do CSS para definir as etapas da transição. As cores de fundo do céu, a posição do sol e da lua, e a aparição das estrelas são animadas para criar a transição de dia para noite.
+<img src="gif/Design sem nome (6).gif">
